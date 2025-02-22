@@ -10,3 +10,7 @@ queries to generate database reports
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines two branches and keeps both branches histories while rebasing moves one branch to another. 
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to working in a group to make our own data science project. I hope this project will allow me to learn a lot about data science. 
